@@ -26,6 +26,9 @@ next time a player would receive priority, which is usually during the upkeep st
 beginning of the upkeep are put onto the stack before the active player gets priority; the order in
 which they triggered doesn’t matter.
 
+    -  If a spell states that it may be cast only “after [a player’s] upkeep step,” and the turn has multiple
+upkeep steps, that spell may be cast any time after the first upkeep step ends
+
   - Draw Step
 - Precombat Main Phase
 
