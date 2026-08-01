@@ -1,4 +1,4 @@
-- Beginning Phase
+# Beginning Phase
   ##
   - Untap Step
     
