@@ -18,7 +18,7 @@ permanents untap, but effects can keep one or more of a player’s permanents fr
     - No player receives priority during the untap step, so no spells can be cast or resolve and no
 abilities can be activated or resolve. Any ability that triggers during this step will be held until the
 next time a player would receive priority, which is usually during the upkeep step
-
+##
   - Upkeep Step
     
     - The upkeep step has no turn-based actions. Once it begins, the active player gets priority
@@ -28,7 +28,7 @@ beginning of the upkeep are put onto the stack before the active player gets pri
 which they triggered doesn’t matter.
     -  If a spell states that it may be cast only “after [a player’s] upkeep step,” and the turn has multiple
 upkeep steps, that spell may be cast any time after the first upkeep step ends
-
+##
   - Draw Step
     
     - the active player draws a card. This turn-based action doesn’t use the stack
