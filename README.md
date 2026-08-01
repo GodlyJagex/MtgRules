@@ -19,10 +19,13 @@ abilities can be activated or resolve. Any ability that triggers during this ste
 next time a player would receive priority, which is usually during the upkeep step
 
   - Upkeep Step
+    
     - The upkeep step has no turn-based actions. Once it begins, the active player gets priority
+      
     - Any abilities that triggered during the untap step and any abilities that triggered at the
 beginning of the upkeep are put onto the stack before the active player gets priority; the order in
 which they triggered doesn’t matter.
+
   - Draw Step
 - Precombat Main Phase
 
