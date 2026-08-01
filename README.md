@@ -11,7 +11,7 @@
 
 # Beginning Phase
 > Untap Step
-
+> 
 > Upkeep Step
 
 > Draw Step
