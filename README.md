@@ -1,5 +1,6 @@
 - Beginning Phase
   - Untap Step
+    
     - First, all phased-in permanents with phasing that the active player controls phase out, and all phased-out
       permanents that the active player controlled when they phased out phase in. This all happens simultaneously.
       This turn-based action doesn’t use the stack
