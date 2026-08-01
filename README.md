@@ -1,25 +1,11 @@
 - Beginning Phase
   - Untap Step
+  - Upkeep Step
+  - Draw Step
+- Precombat Main Phase
 
-> Precombat Main Phase
+- Combat Phase
 
-> Combat Phase
+- Postcombat Main Phase
 
-> Postcombat Main Phase
-
-> Ending Phase
-
-# Beginning Phase
-> Untap Step
-
-> Upkeep Step
-
-> Draw Step
-
-# Precombat Main Phase
-
-# Combat Phase
-
-# Postcombat Main Phase
-
-# Ending Phase
+- Ending Phase
