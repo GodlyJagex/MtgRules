@@ -1,4 +1,5 @@
 - Beginning Phase
+  ##
   - Untap Step
     
     1. all phased-in permanents with phasing that the active player controls phase out, and all phased-out
