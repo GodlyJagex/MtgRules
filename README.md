@@ -1,7 +1,5 @@
-# Phases
-> Beginning Phase
-
-  > Untap Step
+- Beginning Phase
+  - Untap Step
 
 > Precombat Main Phase
 
