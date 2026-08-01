@@ -29,6 +29,11 @@ which they triggered doesn’t matter.
 upkeep steps, that spell may be cast any time after the first upkeep step ends
 
   - Draw Step
+    
+    - the active player draws a card. This turn-based action doesn’t use the stack
+      
+    -  the active player gets priority
+      
 - Precombat Main Phase
 
 - Combat Phase
