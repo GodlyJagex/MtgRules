@@ -1,5 +1,4 @@
 # Beginning Phase
-  ##
   - Untap Step
     
     1. all phased-in permanents with phasing that the active player controls phase out, and all phased-out
@@ -35,7 +34,7 @@ upkeep steps, that spell may be cast any time after the first upkeep step ends
       
     -  the active player gets priority
 ##
-- Precombat Main Phase
+# Precombat Main Phase
 
 - Combat Phase
 
